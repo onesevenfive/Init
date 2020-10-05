@@ -1,0 +1,4 @@
+Task: What file has to be modified to make it permanent?
+1. Become a root user using su
+2. Edit the file /etc/hostname with vi /etc/hostname
+3. Restart system

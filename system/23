@@ -1,0 +1,4 @@
+Task: Explain how connect yourself as new user. (With graphic session and ssh session).
+
+To connect with graphic session: start Debian (VirtualBox), enter username and password when asked.
+To connect with ssh session: ssh <username>@<ip>, enter password when asked.

@@ -1,0 +1,5 @@
+Task: What file contains the local DNS entries?
+
+File, that contains local DNS entries is located:
+/etc/hosts
+Use cat /etc/hosts to look it through

@@ -1,0 +1,7 @@
+Task: In what file can you find the installed version of your Debian?
+cat /etc/issue
+This will show us what kind of operating system we are using.
+
+cat /etc/debian_version
+It will show us current Debian version.
+

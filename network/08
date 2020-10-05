@@ -1,0 +1,10 @@
+Task: Find the provider of slash16.org.
+
+To get provider's name use whois. For example: whois <address>
+This command: whois slash16.org | grep 'Name Server:' | awk '{print $3}'
+and result:
+
+NS-1236.AWSDNS-26.ORG
+NS-144.AWSDNS-18.COM
+NS-686.AWSDNS-21.NET
+NS-1989.AWSDNS-56.CO.UK

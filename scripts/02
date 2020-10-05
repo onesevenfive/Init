@@ -1,0 +1,9 @@
+#!/bin/bash
+sudo su -
+USER=$1
+pgrep -u $USER
+while read PID
+do
+	kill $PID
+done
+userdel -f $USER

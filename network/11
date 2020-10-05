@@ -1,0 +1,5 @@
+Use traceroute slash16.org to get information.
+In the result:
+1 - is local IP of router
+2 - is server(?) IP address
+3 - is external IP address
